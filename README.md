@@ -1,6 +1,9 @@
 # Saxta Profil Yarat
 Python Saxta Profil Yaratmaq layihəm
 
+![Untitled12](https://user-images.githubusercontent.com/81584399/133845663-df2a2d2b-38b8-4b43-b8ca-335f62537a55.png)
+
+Vacib!! API key ile ayda sadəcə 50 fotoşəkil yaratmaq olur.
 
 Lazım olacaq kitabxanalar
 
