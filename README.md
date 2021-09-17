@@ -1,23 +1,24 @@
 # Saxta Profil Yarat
-Python Saxta Profil Yaratmaq layihəm
-Thank you https://generated.photos/ for the API
+##Python Saxta Profil Yaratmaq layihəm
+
+##Thank you https://generated.photos/ for the API
 
 
 ![Untitled12](https://user-images.githubusercontent.com/81584399/133845663-df2a2d2b-38b8-4b43-b8ca-335f62537a55.png)
 
-Vacib!! API key ile ayda sadəcə 50 fotoşəkil yaratmaq olur.
+##Vacib!! API key ile ayda sadəcə 50 fotoşəkil yaratmaq olur.
 
-Lazım olacaq kitabxanalar
+##Lazım olacaq kitabxanalar
 
-1)tkinter
+###1)tkinter
 
-2)datetime
+###2)datetime
 
-3)tkinter.ttk
+###3)tkinter.ttk
 
-4)PIL https://pypi.org/project/Pillow/
+###4)PIL https://pypi.org/project/Pillow/
 
-5)tkhtmlview https://pypi.org/project/tkhtmlview/
+###5)tkhtmlview https://pypi.org/project/tkhtmlview/
 
 
 1-ci kitabxanaları quraşdırırıq
