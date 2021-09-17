@@ -16,4 +16,6 @@ Lazım olacaq kitabxanalar
 
 
 1-ci kitabxanaları quraşdırırıq
+![Untitled](https://user-images.githubusercontent.com/81584399/133839587-505f226d-6221-48f9-96d8-81f7fcdf472b.jpg)
+
 
