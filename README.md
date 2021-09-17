@@ -45,7 +45,6 @@ Və burda olan api keyi kopyalayıb api.txt faylına yazırıq və yaddaşda sax
 
 3-cü
 main.py faylını açırıq və işə salırıq
-![Untitled9](https://user-images.githubusercontent.com/81584399/133843174-21d6181b-7618-42f4-b0ad-1c4b7043cae5.png)
 
 ![Untitled10](https://user-images.githubusercontent.com/81584399/133843176-e41442a1-7876-4948-9e93-78059d422610.png)
 
