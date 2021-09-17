@@ -24,7 +24,7 @@ Lazım olacaq kitabxanalar
 
 2-ci https://generated.photos/ bu veb sayta girib hesab açırıq
 
-Və burda olan api keyi kopyalayıb api.txt faylına yazırıq
+Və burda olan api keyi kopyalayıb api.txt faylına yazırıq və yaddaşda saxlayırıq
 
 ![Untitled2](https://user-images.githubusercontent.com/81584399/133841896-958ba242-9999-4715-9b88-6bf859513822.png)
 
@@ -32,12 +32,24 @@ Və burda olan api keyi kopyalayıb api.txt faylına yazırıq
 
 ![Untitled4](https://user-images.githubusercontent.com/81584399/133841912-c52241bc-a113-4e4e-8c7e-70ef787fd898.png)
 
-![Untitled7](https://user-images.githubusercontent.com/81584399/133841916-90b417a9-e4cb-41d4-8c19-84af55369b62.png)
-
-![Untitled8](https://user-images.githubusercontent.com/81584399/133841921-8d786c17-2e80-446f-9ef7-ff4aa1f77c06.png)
-
 ![Untitled5](https://user-images.githubusercontent.com/81584399/133841923-a86bc5d2-3a4c-4f4c-8d61-aed409b75f0b.png)
 
 ![Untitled6](https://user-images.githubusercontent.com/81584399/133841932-a97b0c4d-c835-46ba-be8b-1e331949b9a7.png)
 
+![Untitled7](https://user-images.githubusercontent.com/81584399/133841916-90b417a9-e4cb-41d4-8c19-84af55369b62.png)
+
+![Untitled8](https://user-images.githubusercontent.com/81584399/133841921-8d786c17-2e80-446f-9ef7-ff4aa1f77c06.png)
+
+![Untitled9](https://user-images.githubusercontent.com/81584399/133842358-e73f7ea2-70bb-478e-b080-4ed8cfd44362.png)
+
+
+3-cü
+main.py faylını açırıq və işə salırıq
+![Untitled9](https://user-images.githubusercontent.com/81584399/133843174-21d6181b-7618-42f4-b0ad-1c4b7043cae5.png)
+
+![Untitled10](https://user-images.githubusercontent.com/81584399/133843176-e41442a1-7876-4948-9e93-78059d422610.png)
+
+4-cu Yarat butonuna basaraq profillər yarada bilərsiz😁
+
+![Untitled11](https://user-images.githubusercontent.com/81584399/133843261-7f7dac69-2255-4108-aab5-0b09cdc22200.png)
 
